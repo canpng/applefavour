@@ -19,6 +19,7 @@ jobs:
       - name: install python packages
         run:  pip install PyGithub pandas #Install Packages
       - run: python3 generate_json.py #Run the script
+      - run: sudo rm -rfv *.ipa
       - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: git config --global user.name "github-actions[bot]"
       - run: git add .
