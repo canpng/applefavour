@@ -71,8 +71,8 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": tweaks,
-                    "icon": f"https://applefavour.com/icons/{bundle_id}.png",
-                    "iconURL": f"https://applefavour.com/icons/{bundle_id}.png"
+                    "icon": f"https://applefavour.com/images/{bundle_id}.png",
+                    "iconURL": f"https://applefavour.com/images/{bundle_id}.png"
                 }
             )
             data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
