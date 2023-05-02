@@ -1,0 +1,27 @@
+name: Publish
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+on: [push]
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8 #install the python needed
+      - name: install python packages
+        run: |
+          pip install PyGithub pandas
+          python3 generate_json.py
+      - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: git config --global user.name "github-actions[bot]"
+      - run: git add .
+      - run: git commit -a -m "Packages updated. <Auto Action>"
+      - run: git push
