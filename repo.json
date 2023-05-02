@@ -19,8 +19,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mackolik_4.6.7_Pro_2.0.5_com.domainname.mackolik_%40canpng.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Pro 2.0.5 com.domainname.mackolik",
-            "icon": "https://applefavour.com/images/com.domainname.mackolik.png",
-            "iconURL": "https://applefavour.com/images/com.domainname.mackolik.png"
+            "icon": "https://applefavour.com/icons/com.domainname.mackolik.png",
+            "iconURL": "https://applefavour.com/icons/com.domainname.mackolik.png"
         },
         {
             "name": "Discord",
@@ -34,8 +34,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Discord_175.0_Emnity_1.1_%40canpng_com.hammerandchisel.discord.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Emnity 1.1",
-            "icon": "https://applefavour.com/images/com.hammerandchisel.discord.png",
-            "iconURL": "https://applefavour.com/images/com.hammerandchisel.discord.png"
+            "icon": "https://applefavour.com/icons/com.hammerandchisel.discord.png",
+            "iconURL": "https://applefavour.com/icons/com.hammerandchisel.discord.png"
         }
     ]
 }
