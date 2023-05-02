@@ -5,7 +5,10 @@ permissions:
   pages: write
   id-token: write
 
-on: [push]
+on:
+  release: #Trigger only on new release pushed
+    types: [published]
+
 jobs:
   update:
     runs-on: ubuntu-20.04
@@ -19,9 +22,10 @@ jobs:
       - name: install python packages
         run:  pip install PyGithub pandas #Install Packages
       - run: python3 generate_json.py #Run the script
-      - run: sudo rm -rfv *.ipa
+      - run: sudo rm -rfv *.ipa #Can be added to .gitignore also
       - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - run: git config --global user.name "github-actions[bot]"
-      - run: git add .
-      - run: git commit -a -m "Apps updated. <Auto Action>"
-      - run: git push
+      - run: git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
+      - run: git pull # Pull added because this repo won't be updated by its files by user 
+      - run: git add . # Add entire space 
+      - run: git commit -a -m "Apps updated. <Auto Action>" # Add Message
+      - run: git push # Let's upload
