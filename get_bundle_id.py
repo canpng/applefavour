@@ -8,8 +8,8 @@ import os
 
 
 def get_single_bundle_id(url, name="temp.ipa"):
-    response = requests.get(url)
-    open(name, 'wb').write(response.content)
+    reponse = requests.get(url)
+    open(name, 'wb').write(reponse.content)
 
     icon_folder = "icons/"
     if not os.path.exists(icon_folder):
@@ -67,7 +67,8 @@ def generate_bundle_id_csv(token, repo_name="canpng/applefavour"):
             if (asset.name[-3:] != "ipa"):
                 continue
             name = asset.name[:-4]
-            print("Processing IPA file:", asset.name)
+            print(asset.name)
+
             try:
                 app_name = name.split("-", 1)[0]
             except:
@@ -75,21 +76,13 @@ def generate_bundle_id_csv(token, repo_name="canpng/applefavour"):
 
             if app_name in df.name.values:
                 continue
-
-            path = os.path.join(os.getcwd(), "unpacked", app_name)
-            if not os.path.exists(path):
-                os.makedirs(path)
-            print("Extracting IPA file to:", path)
-            with zipfile.ZipFile(asset.download_stream().raw, mode="r") as archive:
-                archive.extractall(path)
-
             df = pd.concat(
                 [
                     df,
                     pd.DataFrame(
                         {
                             "name": [app_name],
-                            "bundleId": get_single_bundle_id(asset.browser_download_url, name=os.path.join(path, name+".ipa"))
+                            "bundleId": get_single_bundle_id(asset.browser_download_url)
                         }
                     )
                 ],
@@ -100,6 +93,4 @@ def generate_bundle_id_csv(token, repo_name="canpng/applefavour"):
 
 
 if __name__ == "__main__":
-    if not os.path.exists("unpacked"):
-        os.mkdir("unpacked")
-    generate_bundle_id_csv(None
+    generate_bundle_id_csv(None)
