@@ -8,8 +8,8 @@ import os
 
 
 def get_single_bundle_id(url, name="temp.ipa"):
-    response = requests.get(url)
-    open(name, 'wb').write(response.content)
+    reponse = requests.get(url)
+    open(name, 'wb').write(reponse.content)
 
     icon_folder = "icons/"
     if not os.path.exists(icon_folder):
@@ -22,12 +22,7 @@ def get_single_bundle_id(url, name="temp.ipa"):
                 folder_path = os.path.dirname(info_file)
 
         with archive.open(info_file) as fp:
-            try:
-                pl = plistlib.load(fp)
-            except:
-                print(f"Error: {name} is a bad ZIP file")
-                return "com.example.app"
-
+            pl = plistlib.load(fp)
             icon_path = ""
             bundleId = pl["CFBundleIdentifier"]
             if "CFBundleIconFiles" in pl.keys():
@@ -87,7 +82,7 @@ def generate_bundle_id_csv(token, repo_name="canpng/applefavour"):
                     pd.DataFrame(
                         {
                             "name": [app_name],
-                            "bundleId": get_single_bundle_id(asset.browser_download_url, asset.name)
+                            "bundleId": get_single_bundle_id(asset.browser_download_url)
                         }
                     )
                 ],
