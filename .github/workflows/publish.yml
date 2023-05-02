@@ -23,5 +23,5 @@ jobs:
       - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: git config --global user.name "github-actions[bot]"
       - run: git add .
-      - run: git commit -a -m "Packages updated. <Auto Action>"
+      - run: git commit -a -m "Apps updated. <Auto Action>"
       - run: git push
