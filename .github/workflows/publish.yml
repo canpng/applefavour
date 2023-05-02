@@ -6,9 +6,10 @@ permissions:
   id-token: write
 
 on:
-  release: #Trigger only on new release pushed
-    types: [published]
-
+  push: # Only trigger when new release pushed or files were edited.
+    branches:
+      - 'main'
+      - 'releases/**'
 jobs:
   update:
     runs-on: ubuntu-20.04
