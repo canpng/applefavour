@@ -7,6 +7,35 @@
         "repoIcon": "https://applefavour.com/images/favour.png"
     },
     "apps": [
-        
+        {
+            "name": "Mackolik",
+            "bundleID": "com.domainname.mackolik",
+            "bundleIdentifier": "com.domainname.mackolik",
+            "version": "4.6.7",
+            "versionDate": "2023-05-02",
+            "fullDate": "20230502140629",
+            "size": 49233744,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Mackolik_4.6.7_Pro_2.0.5_com.domainname.mackolik_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mackolik_4.6.7_Pro_2.0.5_com.domainname.mackolik_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro 2.0.5 com.domainname.mackolik",
+            "icon": "https://applefavour.com/images/com.domainname.mackolik.png",
+            "iconURL": "https://applefavour.com/images/com.domainname.mackolik.png"
+        },
+        {
+            "name": "Discord",
+            "bundleID": "com.hammerandchisel.discord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "175.0",
+            "versionDate": "2023-05-02",
+            "fullDate": "20230502140456",
+            "size": 87546165,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Discord_175.0_Emnity_1.1_%40canpng_com.hammerandchisel.discord.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Discord_175.0_Emnity_1.1_%40canpng_com.hammerandchisel.discord.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Emnity 1.1",
+            "icon": "https://applefavour.com/images/com.hammerandchisel.discord.png",
+            "iconURL": "https://applefavour.com/images/com.hammerandchisel.discord.png"
+        }
     ]
 }
