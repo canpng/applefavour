@@ -8,8 +8,8 @@ import os
 
 
 def get_single_bundle_id(url, name="temp.ipa"):
-    reponse = requests.get(url)
-    open(name, 'wb').write(reponse.content)
+    response = requests.get(url)
+    open(name, 'wb').write(response.content)
 
     icon_folder = "icons/"
     if not os.path.exists(icon_folder):
@@ -90,7 +90,6 @@ def generate_bundle_id_csv(token, repo_name="canpng/applefavour"):
             )
 
     df.to_csv("bundleId.csv", index=False)
-
 
 if __name__ == "__main__":
     generate_bundle_id_csv(None)
