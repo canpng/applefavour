@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Driving.Zone.2.Hacked.26.@canpng",
+            "bundleID": "com.avecreation.drivingzone2",
+            "bundleIdentifier": "com.avecreation.drivingzone2",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503161024",
+            "size": 151364851,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Driving.Zone.2.Hacked.26.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Driving.Zone.2.Hacked.26.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.avecreation.drivingzone2.png",
+            "iconURL": "https://applefavour.com/icons/com.avecreation.drivingzone2.png"
+        },
+        {
+            "name": "Nicegram.Hacked.1.2.6.@canpng",
+            "bundleID": "app.nicegram",
+            "bundleIdentifier": "app.nicegram",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503161024",
+            "size": 62310698,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Nicegram.Hacked.1.2.6.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Nicegram.Hacked.1.2.6.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/app.nicegram.png",
+            "iconURL": "https://applefavour.com/icons/app.nicegram.png"
+        },
+        {
             "name": "iZip.Pro.19.69.@canpng",
             "bundleID": "com.comcsoft.izippro",
             "bundleIdentifier": "com.comcsoft.izippro",
