@@ -8,6 +8,171 @@
     },
     "apps": [
         {
+            "name": "iZip.Pro.19.69.@canpng",
+            "bundleID": "com.comcsoft.izippro",
+            "bundleIdentifier": "com.comcsoft.izippro",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160014",
+            "size": 55460232,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/iZip.Pro.19.69.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/iZip.Pro.19.69.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.comcsoft.izippro.png",
+            "iconURL": "https://applefavour.com/icons/com.comcsoft.izippro.png"
+        },
+        {
+            "name": "iNet.Pro.3.8.85.@canpng",
+            "bundleID": "com.bananaglue.iNet",
+            "bundleIdentifier": "com.bananaglue.iNet",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160013",
+            "size": 151261822,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/iNet.Pro.3.8.85.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/iNet.Pro.3.8.85.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.bananaglue.iNet.png",
+            "iconURL": "https://applefavour.com/icons/com.bananaglue.iNet.png"
+        },
+        {
+            "name": "WeatherPro.4.9.3.@canpng",
+            "bundleID": "de.meteogroup.WeatherPro.watchkitapp",
+            "bundleIdentifier": "de.meteogroup.WeatherPro.watchkitapp",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160013",
+            "size": 164961308,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/WeatherPro.4.9.3.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/WeatherPro.4.9.3.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/de.meteogroup.WeatherPro.watchkitapp.png",
+            "iconURL": "https://applefavour.com/icons/de.meteogroup.WeatherPro.watchkitapp.png"
+        },
+        {
+            "name": "Video.Crop.Hacked.2.0.2.@canpng",
+            "bundleID": "com.zwj.videocrop",
+            "bundleIdentifier": "com.zwj.videocrop",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160012",
+            "size": 3074979,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Video.Crop.Hacked.2.0.2.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Video.Crop.Hacked.2.0.2.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.zwj.videocrop.png",
+            "iconURL": "https://applefavour.com/icons/com.zwj.videocrop.png"
+        },
+        {
+            "name": "Tempo.App.Hacked.4.18.0.@canpng",
+            "bundleID": "com.quvideo.VISO",
+            "bundleIdentifier": "com.quvideo.VISO",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160008",
+            "size": 72581939,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Tempo.App.Hacked.4.18.0.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Tempo.App.Hacked.4.18.0.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.quvideo.VISO.png",
+            "iconURL": "https://applefavour.com/icons/com.quvideo.VISO.png"
+        },
+        {
+            "name": "Radarbot.Pro.8.0.@canpng",
+            "bundleID": "com.iteration-mobile.radarbot-pro-ww",
+            "bundleIdentifier": "com.iteration-mobile.radarbot-pro-ww",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160007",
+            "size": 51383348,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Radarbot.Pro.8.0.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Radarbot.Pro.8.0.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.iteration-mobile.radarbot-pro-ww.png",
+            "iconURL": "https://applefavour.com/icons/com.iteration-mobile.radarbot-pro-ww.png"
+        },
+        {
+            "name": "DLS23.Hacked.10.170.@canpng",
+            "bundleID": "com.firsttouch.dls7",
+            "bundleIdentifier": "com.firsttouch.dls7",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160002",
+            "size": 545016614,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/DLS23.Hacked.10.170.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/DLS23.Hacked.10.170.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.firsttouch.dls7.png",
+            "iconURL": "https://applefavour.com/icons/com.firsttouch.dls7.png"
+        },
+        {
+            "name": "Filmic.Pro.6.19.1.@canpng",
+            "bundleID": "com.cinegenix.filmic.pro.watchkitapp",
+            "bundleIdentifier": "com.cinegenix.filmic.pro.watchkitapp",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160002",
+            "size": 66879329,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Filmic.Pro.6.19.1.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Filmic.Pro.6.19.1.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.cinegenix.filmic.pro.watchkitapp.png",
+            "iconURL": "https://applefavour.com/icons/com.cinegenix.filmic.pro.watchkitapp.png"
+        },
+        {
+            "name": "Hitman.Sniper.1.7.337.@canpng",
+            "bundleID": "com.squareenixmontreal.hitmansniper",
+            "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160002",
+            "size": 1168023544,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Hitman.Sniper.1.7.337.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Hitman.Sniper.1.7.337.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.squareenixmontreal.hitmansniper.png",
+            "iconURL": "https://applefavour.com/icons/com.squareenixmontreal.hitmansniper.png"
+        },
+        {
+            "name": "InShot.Hacked.1.61.1.@canpng",
+            "bundleID": "com.camerasideas.InstaShot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160002",
+            "size": 130060784,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/InShot.Hacked.1.61.1.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/InShot.Hacked.1.61.1.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.camerasideas.InstaShot.png",
+            "iconURL": "https://applefavour.com/icons/com.camerasideas.InstaShot.png"
+        },
+        {
+            "name": "MovieBox.Hacked.11.4.@canpng",
+            "bundleID": "com.xd.mbp31",
+            "bundleIdentifier": "com.xd.mbp31",
+            "version": "Unknown",
+            "versionDate": "2023-05-03",
+            "fullDate": "20230503160002",
+            "size": 61220788,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/MovieBox.Hacked.11.4.%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/MovieBox.Hacked.11.4.%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.xd.mbp31.png",
+            "iconURL": "https://applefavour.com/icons/com.xd.mbp31.png"
+        },
+        {
             "name": "AirBrush.Hacked.4.27.1.@canpng",
             "bundleID": "com.magicv.AirBrush",
             "bundleIdentifier": "com.magicv.AirBrush",
@@ -19,8 +184,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AirBrush.Hacked.4.27.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.magicv.AirBrush.png",
-            "iconURL": "https://applefavour.com/images/com.magicv.AirBrush.png"
+            "icon": "https://applefavour.com/icons/com.magicv.AirBrush.png",
+            "iconURL": "https://applefavour.com/icons/com.magicv.AirBrush.png"
         },
         {
             "name": "YouTube.Music.Hacked.5.43.1.@canpng",
@@ -34,8 +199,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/YouTube.Music.Hacked.5.43.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.google.ios.youtubemusic.png",
-            "iconURL": "https://applefavour.com/images/com.google.ios.youtubemusic.png"
+            "icon": "https://applefavour.com/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://applefavour.com/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "YouTube.Music.Hacked.5.32.2.@canpng",
@@ -49,8 +214,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/YouTube.Music.Hacked.5.32.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.google.ios.youtubemusic.png",
-            "iconURL": "https://applefavour.com/images/com.google.ios.youtubemusic.png"
+            "icon": "https://applefavour.com/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://applefavour.com/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "VPN.Super.Unlimited.Proxy.Hacked.1.9.4.@canpng",
@@ -64,8 +229,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/VPN.Super.Unlimited.Proxy.Hacked.1.9.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/mobi.mobilejump.freevpn.png",
-            "iconURL": "https://applefavour.com/images/mobi.mobilejump.freevpn.png"
+            "icon": "https://applefavour.com/icons/mobi.mobilejump.freevpn.png",
+            "iconURL": "https://applefavour.com/icons/mobi.mobilejump.freevpn.png"
         },
         {
             "name": "Twitter.Hacked.9.45.@canpng",
@@ -79,8 +244,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Twitter.Hacked.9.45.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.atebits.Tweetie2.png",
-            "iconURL": "https://applefavour.com/images/com.atebits.Tweetie2.png"
+            "icon": "https://applefavour.com/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://applefavour.com/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "URL.Shorterner.Hacked.1.0.@canpng",
@@ -94,8 +259,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/URL.Shorterner.Hacked.1.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.mls.urlshortener.png",
-            "iconURL": "https://applefavour.com/images/com.mls.urlshortener.png"
+            "icon": "https://applefavour.com/icons/com.mls.urlshortener.png",
+            "iconURL": "https://applefavour.com/icons/com.mls.urlshortener.png"
         },
         {
             "name": "TikTok.Hacked.27.9.0.@canpng",
@@ -109,8 +274,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/TikTok.Hacked.27.9.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.zhiliaoapp.musically.png",
-            "iconURL": "https://applefavour.com/images/com.zhiliaoapp.musically.png"
+            "icon": "https://applefavour.com/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://applefavour.com/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Twitter.Hacked.9.39.@canpng",
@@ -124,8 +289,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Twitter.Hacked.9.39.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.atebits.Tweetie2.png",
-            "iconURL": "https://applefavour.com/images/com.atebits.Tweetie2.png"
+            "icon": "https://applefavour.com/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://applefavour.com/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Spotify.Hacked.8.8.6.@canpng",
@@ -139,8 +304,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Spotify.Hacked.8.8.6.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.spotify.client.png",
-            "iconURL": "https://applefavour.com/images/com.spotify.client.png"
+            "icon": "https://applefavour.com/icons/com.spotify.client.png",
+            "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
         },
         {
             "name": "Sketchbook.Hacked.6.0.3.@canpng",
@@ -154,8 +319,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Sketchbook.Hacked.6.0.3.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.autodesk.ios.SketchBookPro3.png",
-            "iconURL": "https://applefavour.com/images/com.autodesk.ios.SketchBookPro3.png"
+            "icon": "https://applefavour.com/icons/com.autodesk.ios.SketchBookPro3.png",
+            "iconURL": "https://applefavour.com/icons/com.autodesk.ios.SketchBookPro3.png"
         },
         {
             "name": "Sniper.3D.Hacked.4.5.0.@canpng",
@@ -169,8 +334,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Sniper.3D.Hacked.4.5.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.fungames.sniper3d.png",
-            "iconURL": "https://applefavour.com/images/com.fungames.sniper3d.png"
+            "icon": "https://applefavour.com/icons/com.fungames.sniper3d.png",
+            "iconURL": "https://applefavour.com/icons/com.fungames.sniper3d.png"
         },
         {
             "name": "Saily.1670586419.@canpng",
@@ -184,8 +349,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Saily.1670586419.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/wiki.qaq.chromatic.release.png",
-            "iconURL": "https://applefavour.com/images/wiki.qaq.chromatic.release.png"
+            "icon": "https://applefavour.com/icons/wiki.qaq.chromatic.release.png",
+            "iconURL": "https://applefavour.com/icons/wiki.qaq.chromatic.release.png"
         },
         {
             "name": "Photomath.Hacked.8.19.0.@canpng",
@@ -199,8 +364,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.19.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.microblink.PhotoMath.png",
-            "iconURL": "https://applefavour.com/images/com.microblink.PhotoMath.png"
+            "icon": "https://applefavour.com/icons/com.microblink.PhotoMath.png",
+            "iconURL": "https://applefavour.com/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "PicsArt.Hacked.21.0.4.@canpng",
@@ -214,8 +379,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/PicsArt.Hacked.21.0.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.picsart.studio.png",
-            "iconURL": "https://applefavour.com/images/com.picsart.studio.png"
+            "icon": "https://applefavour.com/icons/com.picsart.studio.png",
+            "iconURL": "https://applefavour.com/icons/com.picsart.studio.png"
         },
         {
             "name": "Photomath.Hacked.8.18.0.@canpng",
@@ -229,8 +394,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.18.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.microblink.PhotoMath.png",
-            "iconURL": "https://applefavour.com/images/com.microblink.PhotoMath.png"
+            "icon": "https://applefavour.com/icons/com.microblink.PhotoMath.png",
+            "iconURL": "https://applefavour.com/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "Peachy.Hacked.1.39.0.@canpng",
@@ -244,8 +409,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Peachy.Hacked.1.39.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.camerasideas.Peachy.png",
-            "iconURL": "https://applefavour.com/images/com.camerasideas.Peachy.png"
+            "icon": "https://applefavour.com/icons/com.camerasideas.Peachy.png",
+            "iconURL": "https://applefavour.com/icons/com.camerasideas.Peachy.png"
         },
         {
             "name": "NSS.Hacked.2.25.@canpng",
@@ -259,8 +424,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/NSS.Hacked.2.25.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.newstargames.newstarsoccer.png",
-            "iconURL": "https://applefavour.com/images/com.newstargames.newstarsoccer.png"
+            "icon": "https://applefavour.com/icons/com.newstargames.newstarsoccer.png",
+            "iconURL": "https://applefavour.com/icons/com.newstargames.newstarsoccer.png"
         },
         {
             "name": "Musixmatch.Hacked.7.10.3.@canpng",
@@ -274,8 +439,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Musixmatch.Hacked.7.10.3.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.musixmatch.lyrics.png",
-            "iconURL": "https://applefavour.com/images/com.musixmatch.lyrics.png"
+            "icon": "https://applefavour.com/icons/com.musixmatch.lyrics.png",
+            "iconURL": "https://applefavour.com/icons/com.musixmatch.lyrics.png"
         },
         {
             "name": "Mugunghwa.3.0.@canpng",
@@ -289,8 +454,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mugunghwa.3.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/me.soongyu.mugunghwautil.png",
-            "iconURL": "https://applefavour.com/images/me.soongyu.mugunghwautil.png"
+            "icon": "https://applefavour.com/icons/me.soongyu.mugunghwautil.png",
+            "iconURL": "https://applefavour.com/icons/me.soongyu.mugunghwautil.png"
         },
         {
             "name": "Mesih.2.1.@canpng",
@@ -304,8 +469,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mesih.2.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.fatih.mesihtr.png",
-            "iconURL": "https://applefavour.com/images/com.fatih.mesihtr.png"
+            "icon": "https://applefavour.com/icons/com.fatih.mesihtr.png",
+            "iconURL": "https://applefavour.com/icons/com.fatih.mesihtr.png"
         },
         {
             "name": "Fasting.Hacked.1.4.7.@canpng",
@@ -319,8 +484,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Fasting.Hacked.1.4.7.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.leapfitness.fasting.png",
-            "iconURL": "https://applefavour.com/images/com.leapfitness.fasting.png"
+            "icon": "https://applefavour.com/icons/com.leapfitness.fasting.png",
+            "iconURL": "https://applefavour.com/icons/com.leapfitness.fasting.png"
         },
         {
             "name": "Facebook.Hacked.395.0.@canpng",
@@ -334,8 +499,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Facebook.Hacked.395.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.facebook.Facebook.png",
-            "iconURL": "https://applefavour.com/images/com.facebook.Facebook.png"
+            "icon": "https://applefavour.com/icons/com.facebook.Facebook.png",
+            "iconURL": "https://applefavour.com/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Earthquake.Hacked.4.4.6.@canpng",
@@ -349,8 +514,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Earthquake.Hacked.4.4.6.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/org.tranquilli.Earthquake.png",
-            "iconURL": "https://applefavour.com/images/org.tranquilli.Earthquake.png"
+            "icon": "https://applefavour.com/icons/org.tranquilli.Earthquake.png",
+            "iconURL": "https://applefavour.com/icons/org.tranquilli.Earthquake.png"
         },
         {
             "name": "E-Sign.4.7.4.@canpng",
@@ -364,8 +529,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/E-Sign.4.7.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/p3.xyz.yyyue.esign.png",
-            "iconURL": "https://applefavour.com/images/p3.xyz.yyyue.esign.png"
+            "icon": "https://applefavour.com/icons/p3.xyz.yyyue.esign.png",
+            "iconURL": "https://applefavour.com/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "AI.Logo.Generator.Hacked.1.8.@canpng",
@@ -379,8 +544,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AI.Logo.Generator.Hacked.1.8.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.TBailogogenerator.TBailogogenerator.png",
-            "iconURL": "https://applefavour.com/images/com.TBailogogenerator.TBailogogenerator.png"
+            "icon": "https://applefavour.com/icons/com.TBailogogenerator.TBailogogenerator.png",
+            "iconURL": "https://applefavour.com/icons/com.TBailogogenerator.TBailogogenerator.png"
         },
         {
             "name": "BeautyCam.Hacked.11.2.70.@canpng",
@@ -394,8 +559,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/BeautyCam.Hacked.11.2.70.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.meitu.myxj.png",
-            "iconURL": "https://applefavour.com/images/com.meitu.myxj.png"
+            "icon": "https://applefavour.com/icons/com.meitu.myxj.png",
+            "iconURL": "https://applefavour.com/icons/com.meitu.myxj.png"
         },
         {
             "name": "Documents.Hacked.8.3.0.@canpng",
@@ -409,8 +574,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Documents.Hacked.8.3.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.readdle.ReaddleDocsIPad.png",
-            "iconURL": "https://applefavour.com/images/com.readdle.ReaddleDocsIPad.png"
+            "icon": "https://applefavour.com/icons/com.readdle.ReaddleDocsIPad.png",
+            "iconURL": "https://applefavour.com/icons/com.readdle.ReaddleDocsIPad.png"
         },
         {
             "name": "DraftCode.1.11.@canpng",
@@ -424,8 +589,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/DraftCode.1.11.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.freeridecoding.draftcode.png",
-            "iconURL": "https://applefavour.com/images/com.freeridecoding.draftcode.png"
+            "icon": "https://applefavour.com/icons/com.freeridecoding.draftcode.png",
+            "iconURL": "https://applefavour.com/icons/com.freeridecoding.draftcode.png"
         },
         {
             "name": "DynamicCow.1.1.@canpng",
@@ -439,8 +604,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/DynamicCow.1.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.zeph.DynamicCoww.png",
-            "iconURL": "https://applefavour.com/images/com.zeph.DynamicCoww.png"
+            "icon": "https://applefavour.com/icons/com.zeph.DynamicCoww.png",
+            "iconURL": "https://applefavour.com/icons/com.zeph.DynamicCoww.png"
         },
         {
             "name": "YouTube.Hacked.18.15.1.@canpng",
@@ -454,8 +619,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/YouTube.Hacked.18.15.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.google.ios.youtube.png",
-            "iconURL": "https://applefavour.com/images/com.google.ios.youtube.png"
+            "icon": "https://applefavour.com/icons/com.google.ios.youtube.png",
+            "iconURL": "https://applefavour.com/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTube.Hacked.18.09.4.@canpng",
@@ -469,8 +634,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/YouTube.Hacked.18.09.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.google.ios.youtube.png",
-            "iconURL": "https://applefavour.com/images/com.google.ios.youtube.png"
+            "icon": "https://applefavour.com/icons/com.google.ios.youtube.png",
+            "iconURL": "https://applefavour.com/icons/com.google.ios.youtube.png"
         },
         {
             "name": "Xtreme.IPTV.Hacked.3.9.4.@canpng",
@@ -484,8 +649,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Xtreme.IPTV.Hacked.3.9.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/mca.iptvplayer.png",
-            "iconURL": "https://applefavour.com/images/mca.iptvplayer.png"
+            "icon": "https://applefavour.com/icons/mca.iptvplayer.png",
+            "iconURL": "https://applefavour.com/icons/mca.iptvplayer.png"
         },
         {
             "name": "WhatsApp.Hacked.23.5.75.@canpng",
@@ -499,8 +664,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/WhatsApp.Hacked.23.5.75.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/net.whatsapp.WhatsApp.png",
-            "iconURL": "https://applefavour.com/images/net.whatsapp.WhatsApp.png"
+            "icon": "https://applefavour.com/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://applefavour.com/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "WhatsApp.2.Hacked.23.8.78.@canpng",
@@ -514,8 +679,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/WhatsApp.2.Hacked.23.8.78.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.dpixel.watusi.png",
-            "iconURL": "https://applefavour.com/images/com.dpixel.watusi.png"
+            "icon": "https://applefavour.com/icons/com.dpixel.watusi.png",
+            "iconURL": "https://applefavour.com/icons/com.dpixel.watusi.png"
         },
         {
             "name": "Vimage.Hacked.4.14.00.@canpng",
@@ -529,8 +694,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Vimage.Hacked.4.14.00.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.vimage.ios.png",
-            "iconURL": "https://applefavour.com/images/com.vimage.ios.png"
+            "icon": "https://applefavour.com/icons/com.vimage.ios.png",
+            "iconURL": "https://applefavour.com/icons/com.vimage.ios.png"
         },
         {
             "name": "Videoshop.Hacked.84.2.2.@canpng",
@@ -544,8 +709,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Videoshop.Hacked.84.2.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.VideoShop.VideoShop.png",
-            "iconURL": "https://applefavour.com/images/com.VideoShop.VideoShop.png"
+            "icon": "https://applefavour.com/icons/com.VideoShop.VideoShop.png",
+            "iconURL": "https://applefavour.com/icons/com.VideoShop.VideoShop.png"
         },
         {
             "name": "VN.Video.Editor.Hacked.1.63.@canpng",
@@ -559,8 +724,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/VN.Video.Editor.Hacked.1.63.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.frontrow.vlog.png",
-            "iconURL": "https://applefavour.com/images/com.frontrow.vlog.png"
+            "icon": "https://applefavour.com/icons/com.frontrow.vlog.png",
+            "iconURL": "https://applefavour.com/icons/com.frontrow.vlog.png"
         },
         {
             "name": "Tropic.Escape.Hacked.1.155.@canpng",
@@ -574,8 +739,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Tropic.Escape.Hacked.1.155.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.zynga.FarmVilleTropicEscape.png",
-            "iconURL": "https://applefavour.com/images/com.zynga.FarmVilleTropicEscape.png"
+            "icon": "https://applefavour.com/icons/com.zynga.FarmVilleTropicEscape.png",
+            "iconURL": "https://applefavour.com/icons/com.zynga.FarmVilleTropicEscape.png"
         },
         {
             "name": "TikTok.Hacked.28.4.0.@canpng",
@@ -589,8 +754,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/TikTok.Hacked.28.4.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.zhiliaoapp.musically.png",
-            "iconURL": "https://applefavour.com/images/com.zhiliaoapp.musically.png"
+            "icon": "https://applefavour.com/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://applefavour.com/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "TeraBox.Hacked.3.11.0.@canpng",
@@ -604,8 +769,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/TeraBox.Hacked.3.11.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.dubox.drive.png",
-            "iconURL": "https://applefavour.com/images/com.dubox.drive.png"
+            "icon": "https://applefavour.com/icons/com.dubox.drive.png",
+            "iconURL": "https://applefavour.com/icons/com.dubox.drive.png"
         },
         {
             "name": "Spotify.Hacked.8.8.22.@canpng",
@@ -619,8 +784,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Spotify.Hacked.8.8.22.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.spotify.client.png",
-            "iconURL": "https://applefavour.com/images/com.spotify.client.png"
+            "icon": "https://applefavour.com/icons/com.spotify.client.png",
+            "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
         },
         {
             "name": "Tanks.a.Lot.Hacked.5.000.@canpng",
@@ -634,8 +799,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Tanks.a.Lot.Hacked.5.000.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.boombitgames.TanksALot.png",
-            "iconURL": "https://applefavour.com/images/com.boombitgames.TanksALot.png"
+            "icon": "https://applefavour.com/icons/com.boombitgames.TanksALot.png",
+            "iconURL": "https://applefavour.com/icons/com.boombitgames.TanksALot.png"
         },
         {
             "name": "Tanks.a.Lot.Hacked.5.100.@canpng",
@@ -649,8 +814,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Tanks.a.Lot.Hacked.5.100.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.boombitgames.TanksALot.png",
-            "iconURL": "https://applefavour.com/images/com.boombitgames.TanksALot.png"
+            "icon": "https://applefavour.com/icons/com.boombitgames.TanksALot.png",
+            "iconURL": "https://applefavour.com/icons/com.boombitgames.TanksALot.png"
         },
         {
             "name": "Spotify.Hacked.8.8.15.@canpng",
@@ -664,8 +829,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Spotify.Hacked.8.8.15.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.spotify.client.png",
-            "iconURL": "https://applefavour.com/images/com.spotify.client.png"
+            "icon": "https://applefavour.com/icons/com.spotify.client.png",
+            "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
         },
         {
             "name": "ScourgeBringer.Hacked.1.0",
@@ -679,8 +844,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/ScourgeBringer.Hacked.1.0.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.pid.scourgebringer.png",
-            "iconURL": "https://applefavour.com/images/com.pid.scourgebringer.png"
+            "icon": "https://applefavour.com/icons/com.pid.scourgebringer.png",
+            "iconURL": "https://applefavour.com/icons/com.pid.scourgebringer.png"
         },
         {
             "name": "ScourgeBringer.Hacked.1.0.1.@canpng",
@@ -694,8 +859,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/ScourgeBringer.Hacked.1.0.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.pid.scourgebringer.png",
-            "iconURL": "https://applefavour.com/images/com.pid.scourgebringer.png"
+            "icon": "https://applefavour.com/icons/com.pid.scourgebringer.png",
+            "iconURL": "https://applefavour.com/icons/com.pid.scourgebringer.png"
         },
         {
             "name": "Royal.Match.Hacked.13310.@canpng",
@@ -709,8 +874,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Royal.Match.Hacked.13310.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.dreamgames.royalmatch.png",
-            "iconURL": "https://applefavour.com/images/com.dreamgames.royalmatch.png"
+            "icon": "https://applefavour.com/icons/com.dreamgames.royalmatch.png",
+            "iconURL": "https://applefavour.com/icons/com.dreamgames.royalmatch.png"
         },
         {
             "name": "RainViewer.Hacked.2.20.2.@canpng",
@@ -724,8 +889,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/RainViewer.Hacked.2.20.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.lucky-apps.RainViewer.png",
-            "iconURL": "https://applefavour.com/images/com.lucky-apps.RainViewer.png"
+            "icon": "https://applefavour.com/icons/com.lucky-apps.RainViewer.png",
+            "iconURL": "https://applefavour.com/icons/com.lucky-apps.RainViewer.png"
         },
         {
             "name": "Reversee.Hacked.5.3.6.@canpng",
@@ -739,8 +904,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Reversee.Hacked.5.3.6.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.jogos12.Reversee.png",
-            "iconURL": "https://applefavour.com/images/com.jogos12.Reversee.png"
+            "icon": "https://applefavour.com/icons/com.jogos12.Reversee.png",
+            "iconURL": "https://applefavour.com/icons/com.jogos12.Reversee.png"
         },
         {
             "name": "Polish.Hacked.1.5.4.@canpng",
@@ -754,8 +919,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Polish.Hacked.1.5.4.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.photoeditor.polish.png",
-            "iconURL": "https://applefavour.com/images/com.photoeditor.polish.png"
+            "icon": "https://applefavour.com/icons/com.photoeditor.polish.png",
+            "iconURL": "https://applefavour.com/icons/com.photoeditor.polish.png"
         },
         {
             "name": "ProCamera.16.2.1.@canpng",
@@ -769,8 +934,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/ProCamera.16.2.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.cocologics.ProCamera.WatchKitApp.png",
-            "iconURL": "https://applefavour.com/images/com.cocologics.ProCamera.WatchKitApp.png"
+            "icon": "https://applefavour.com/icons/com.cocologics.ProCamera.WatchKitApp.png",
+            "iconURL": "https://applefavour.com/icons/com.cocologics.ProCamera.WatchKitApp.png"
         },
         {
             "name": "PDF.Expert.Hacked.7.14.1.@canpng",
@@ -784,8 +949,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/PDF.Expert.Hacked.7.14.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.readdle.PDFExpert5.png",
-            "iconURL": "https://applefavour.com/images/com.readdle.PDFExpert5.png"
+            "icon": "https://applefavour.com/icons/com.readdle.PDFExpert5.png",
+            "iconURL": "https://applefavour.com/icons/com.readdle.PDFExpert5.png"
         },
         {
             "name": "Motion.Ninja.Hacked.4.8.2.@canpng",
@@ -799,8 +964,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Motion.Ninja.Hacked.4.8.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.floatcamellia.motionninja.png",
-            "iconURL": "https://applefavour.com/images/com.floatcamellia.motionninja.png"
+            "icon": "https://applefavour.com/icons/com.floatcamellia.motionninja.png",
+            "iconURL": "https://applefavour.com/icons/com.floatcamellia.motionninja.png"
         },
         {
             "name": "Mondly.Hacked.10.0.0.@canpng",
@@ -814,8 +979,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mondly.Hacked.10.0.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.atistudios.MondlyLanguages.png",
-            "iconURL": "https://applefavour.com/images/com.atistudios.MondlyLanguages.png"
+            "icon": "https://applefavour.com/icons/com.atistudios.MondlyLanguages.png",
+            "iconURL": "https://applefavour.com/icons/com.atistudios.MondlyLanguages.png"
         },
         {
             "name": "Mini.Soccer.Star.Hacked.0.59.@canpng",
@@ -829,8 +994,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Mini.Soccer.Star.Hacked.0.59.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.touch2goal.soccer.png",
-            "iconURL": "https://applefavour.com/images/com.touch2goal.soccer.png"
+            "icon": "https://applefavour.com/icons/com.touch2goal.soccer.png",
+            "iconURL": "https://applefavour.com/icons/com.touch2goal.soccer.png"
         },
         {
             "name": "Instagram.Hacked.278.0.@canpng",
@@ -844,8 +1009,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.278.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.burbn.instagram.png",
-            "iconURL": "https://applefavour.com/images/com.burbn.instagram.png"
+            "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
+            "iconURL": "https://applefavour.com/icons/com.burbn.instagram.png"
         },
         {
             "name": "Minecraft.1.19.62.@canpng",
@@ -859,8 +1024,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Minecraft.1.19.62.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.mojang.minecraftpe.png",
-            "iconURL": "https://applefavour.com/images/com.mojang.minecraftpe.png"
+            "icon": "https://applefavour.com/icons/com.mojang.minecraftpe.png",
+            "iconURL": "https://applefavour.com/icons/com.mojang.minecraftpe.png"
         },
         {
             "name": "Instagram.Hacked.274.0.@canpng",
@@ -874,8 +1039,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.274.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.burbn.instagram.png",
-            "iconURL": "https://applefavour.com/images/com.burbn.instagram.png"
+            "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
+            "iconURL": "https://applefavour.com/icons/com.burbn.instagram.png"
         },
         {
             "name": "InShot.Hacked.1.67.0.@canpng",
@@ -889,8 +1054,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/InShot.Hacked.1.67.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.camerasideas.InstaShot.png",
-            "iconURL": "https://applefavour.com/images/com.camerasideas.InstaShot.png"
+            "icon": "https://applefavour.com/icons/com.camerasideas.InstaShot.png",
+            "iconURL": "https://applefavour.com/icons/com.camerasideas.InstaShot.png"
         },
         {
             "name": "ImgPlay.Hacked.6.2.6.@canpng",
@@ -904,8 +1069,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/ImgPlay.Hacked.6.2.6.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/me.imgbase.imgplay.png",
-            "iconURL": "https://applefavour.com/images/me.imgbase.imgplay.png"
+            "icon": "https://applefavour.com/icons/me.imgbase.imgplay.png",
+            "iconURL": "https://applefavour.com/icons/me.imgbase.imgplay.png"
         },
         {
             "name": "Hill.Climb.Racing.Hacked.1.57.0.@canpng",
@@ -919,8 +1084,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Hill.Climb.Racing.Hacked.1.57.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.fingersoft.hillclimbracing.png",
-            "iconURL": "https://applefavour.com/images/com.fingersoft.hillclimbracing.png"
+            "icon": "https://applefavour.com/icons/com.fingersoft.hillclimbracing.png",
+            "iconURL": "https://applefavour.com/icons/com.fingersoft.hillclimbracing.png"
         },
         {
             "name": "Hacker.Baslangic.1",
@@ -934,8 +1099,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Hacker.Baslangic.1.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.kurgustudios.hackerbaslangic.png",
-            "iconURL": "https://applefavour.com/images/com.kurgustudios.hackerbaslangic.png"
+            "icon": "https://applefavour.com/icons/com.kurgustudios.hackerbaslangic.png",
+            "iconURL": "https://applefavour.com/icons/com.kurgustudios.hackerbaslangic.png"
         },
         {
             "name": "Facebook.Hacked.409.0.@canpng",
@@ -949,8 +1114,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Facebook.Hacked.409.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.facebook.Facebook.png",
-            "iconURL": "https://applefavour.com/images/com.facebook.Facebook.png"
+            "icon": "https://applefavour.com/icons/com.facebook.Facebook.png",
+            "iconURL": "https://applefavour.com/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Gradient.Hacked.2.7.14.@canpng",
@@ -964,8 +1129,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Gradient.Hacked.2.7.14.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.tickettothemoon.gradient.png",
-            "iconURL": "https://applefavour.com/images/com.tickettothemoon.gradient.png"
+            "icon": "https://applefavour.com/icons/com.tickettothemoon.gradient.png",
+            "iconURL": "https://applefavour.com/icons/com.tickettothemoon.gradient.png"
         },
         {
             "name": "Hacker.Baslangic.1.988.@canpng",
@@ -979,8 +1144,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Hacker.Baslangic.1.988.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.kurgustudios.hackerbaslangic.png",
-            "iconURL": "https://applefavour.com/images/com.kurgustudios.hackerbaslangic.png"
+            "icon": "https://applefavour.com/icons/com.kurgustudios.hackerbaslangic.png",
+            "iconURL": "https://applefavour.com/icons/com.kurgustudios.hackerbaslangic.png"
         },
         {
             "name": "Earn.to.Die.2.Hacked.1.4.17.@canpng",
@@ -994,8 +1159,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Earn.to.Die.2.Hacked.1.4.17.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.notdoppler.EarntoDie2.png",
-            "iconURL": "https://applefavour.com/images/com.notdoppler.EarntoDie2.png"
+            "icon": "https://applefavour.com/icons/com.notdoppler.EarntoDie2.png",
+            "iconURL": "https://applefavour.com/icons/com.notdoppler.EarntoDie2.png"
         },
         {
             "name": "Discord.Hacked.175.0.@canpng",
@@ -1009,8 +1174,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Discord.Hacked.175.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.hammerandchisel.discord.png",
-            "iconURL": "https://applefavour.com/images/com.hammerandchisel.discord.png"
+            "icon": "https://applefavour.com/icons/com.hammerandchisel.discord.png",
+            "iconURL": "https://applefavour.com/icons/com.hammerandchisel.discord.png"
         },
         {
             "name": "Dezor.1.0.0.@canpng",
@@ -1024,8 +1189,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Dezor.1.0.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/net.dezor.browser.png",
-            "iconURL": "https://applefavour.com/images/net.dezor.browser.png"
+            "icon": "https://applefavour.com/icons/net.dezor.browser.png",
+            "iconURL": "https://applefavour.com/icons/net.dezor.browser.png"
         },
         {
             "name": "Device.Monitor.Hacked.6.3.0.@canpng",
@@ -1039,8 +1204,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Device.Monitor.Hacked.6.3.0.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/org.fastdevsproject.altervista.Device-Monitor.png",
-            "iconURL": "https://applefavour.com/images/org.fastdevsproject.altervista.Device-Monitor.png"
+            "icon": "https://applefavour.com/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+            "iconURL": "https://applefavour.com/icons/org.fastdevsproject.altervista.Device-Monitor.png"
         },
         {
             "name": "Deep.TV.Pro.1.0.69.@canpng",
@@ -1054,8 +1219,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Deep.TV.Pro.1.0.69.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.deeptv.pro.png",
-            "iconURL": "https://applefavour.com/images/com.deeptv.pro.png"
+            "icon": "https://applefavour.com/icons/com.deeptv.pro.png",
+            "iconURL": "https://applefavour.com/icons/com.deeptv.pro.png"
         },
         {
             "name": "Deep.TV.Pro.1.0.68.@canpng",
@@ -1069,8 +1234,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Deep.TV.Pro.1.0.68.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.deeptv.pro.png",
-            "iconURL": "https://applefavour.com/images/com.deeptv.pro.png"
+            "icon": "https://applefavour.com/icons/com.deeptv.pro.png",
+            "iconURL": "https://applefavour.com/icons/com.deeptv.pro.png"
         },
         {
             "name": "Cowabunga.8.1.1.@canpng",
@@ -1084,8 +1249,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Cowabunga.8.1.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.leemin.Cowabunga.png",
-            "iconURL": "https://applefavour.com/images/com.leemin.Cowabunga.png"
+            "icon": "https://applefavour.com/icons/com.leemin.Cowabunga.png",
+            "iconURL": "https://applefavour.com/icons/com.leemin.Cowabunga.png"
         },
         {
             "name": "Bowmasters.Hacked.3.0.2.@canpng",
@@ -1099,8 +1264,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Bowmasters.Hacked.3.0.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.playgendary.bowmasters.png",
-            "iconURL": "https://applefavour.com/images/com.playgendary.bowmasters.png"
+            "icon": "https://applefavour.com/icons/com.playgendary.bowmasters.png",
+            "iconURL": "https://applefavour.com/icons/com.playgendary.bowmasters.png"
         },
         {
             "name": "AdBlock.1.2.@canpng",
@@ -1114,8 +1279,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.2.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.7color.AdBlock.png",
-            "iconURL": "https://applefavour.com/images/com.7color.AdBlock.png"
+            "icon": "https://applefavour.com/icons/com.7color.AdBlock.png",
+            "iconURL": "https://applefavour.com/icons/com.7color.AdBlock.png"
         },
         {
             "name": "AdBlock.1",
@@ -1129,8 +1294,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.7color.AdBlock.png",
-            "iconURL": "https://applefavour.com/images/com.7color.AdBlock.png"
+            "icon": "https://applefavour.com/icons/com.7color.AdBlock.png",
+            "iconURL": "https://applefavour.com/icons/com.7color.AdBlock.png"
         },
         {
             "name": "Artory.Hacked.3.1.1.@canpng",
@@ -1144,8 +1309,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Artory.Hacked.3.1.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/org.skydomain.animatedpost.png",
-            "iconURL": "https://applefavour.com/images/org.skydomain.animatedpost.png"
+            "icon": "https://applefavour.com/icons/org.skydomain.animatedpost.png",
+            "iconURL": "https://applefavour.com/icons/org.skydomain.animatedpost.png"
         },
         {
             "name": "Aylik.Distopya.2.9.@canpng",
@@ -1159,8 +1324,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Aylik.Distopya.2.9.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.fatih.dystopia.png",
-            "iconURL": "https://applefavour.com/images/com.fatih.dystopia.png"
+            "icon": "https://applefavour.com/icons/com.fatih.dystopia.png",
+            "iconURL": "https://applefavour.com/icons/com.fatih.dystopia.png"
         },
         {
             "name": "Aylik.Distopya.3.1.@canpng",
@@ -1174,8 +1339,8 @@
             "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Aylik.Distopya.3.1.%40canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
-            "icon": "https://applefavour.com/images/com.fatih.dystopia.png",
-            "iconURL": "https://applefavour.com/images/com.fatih.dystopia.png"
+            "icon": "https://applefavour.com/icons/com.fatih.dystopia.png",
+            "iconURL": "https://applefavour.com/icons/com.fatih.dystopia.png"
         }
     ]
 }
