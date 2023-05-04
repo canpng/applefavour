@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Impulse_1.29.5_PremiumPatch_1.0_canpng",
+            "bundleID": "gen.tech.impulse",
+            "bundleIdentifier": "gen.tech.impulse",
+            "version": "Unknown",
+            "versionDate": "2023-05-04",
+            "fullDate": "20230504115502",
+            "size": 53797516,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Impulse_1.29.5_PremiumPatch_1.0_canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Impulse_1.29.5_PremiumPatch_1.0_canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/gen.tech.impulse.png",
+            "iconURL": "https://applefavour.com/icons/gen.tech.impulse.png"
+        },
+        {
+            "name": "Instagram_281.0_Rocket_3.8.8.canpng",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "Unknown",
+            "versionDate": "2023-05-04",
+            "fullDate": "20230504115502",
+            "size": 108586485,
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8.canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8.canpng.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
+            "iconURL": "https://applefavour.com/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "Driving.Zone.2.Hacked.26.@canpng",
             "bundleID": "com.avecreation.drivingzone2",
             "bundleIdentifier": "com.avecreation.drivingzone2",
@@ -293,21 +323,6 @@
             "iconURL": "https://applefavour.com/icons/com.mls.urlshortener.png"
         },
         {
-            "name": "TikTok.Hacked.27.9.0.@canpng",
-            "bundleID": "com.zhiliaoapp.musically",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502222308",
-            "size": 167612872,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/TikTok.Hacked.27.9.0.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/TikTok.Hacked.27.9.0.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.zhiliaoapp.musically.png",
-            "iconURL": "https://applefavour.com/icons/com.zhiliaoapp.musically.png"
-        },
-        {
             "name": "Twitter.Hacked.9.39.@canpng",
             "bundleID": "com.atebits.Tweetie2",
             "bundleIdentifier": "com.atebits.Tweetie2",
@@ -368,30 +383,15 @@
             "iconURL": "https://applefavour.com/icons/com.fungames.sniper3d.png"
         },
         {
-            "name": "Saily.1670586419.@canpng",
-            "bundleID": "wiki.qaq.chromatic.release",
-            "bundleIdentifier": "wiki.qaq.chromatic.release",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502222302",
-            "size": 14058628,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Saily.1670586419.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Saily.1670586419.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/wiki.qaq.chromatic.release.png",
-            "iconURL": "https://applefavour.com/icons/wiki.qaq.chromatic.release.png"
-        },
-        {
-            "name": "Photomath.Hacked.8.19.0.@canpng",
+            "name": "Photomath_8.19.0_Hacked_1.0_canpng",
             "bundleID": "com.microblink.PhotoMath",
             "bundleIdentifier": "com.microblink.PhotoMath",
             "version": "Unknown",
             "versionDate": "2023-05-02",
             "fullDate": "20230502222301",
             "size": 15452548,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.19.0.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.19.0.%40canpng.ipa",
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath_8.19.0_Hacked_1.0_canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath_8.19.0_Hacked_1.0_canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/com.microblink.PhotoMath.png",
@@ -411,21 +411,6 @@
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/com.picsart.studio.png",
             "iconURL": "https://applefavour.com/icons/com.picsart.studio.png"
-        },
-        {
-            "name": "Photomath.Hacked.8.18.0.@canpng",
-            "bundleID": "com.microblink.PhotoMath",
-            "bundleIdentifier": "com.microblink.PhotoMath",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502222300",
-            "size": 11261167,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.18.0.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Photomath.Hacked.8.18.0.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.microblink.PhotoMath.png",
-            "iconURL": "https://applefavour.com/icons/com.microblink.PhotoMath.png"
         },
         {
             "name": "Peachy.Hacked.1.39.0.@canpng",
@@ -546,21 +531,6 @@
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/org.tranquilli.Earthquake.png",
             "iconURL": "https://applefavour.com/icons/org.tranquilli.Earthquake.png"
-        },
-        {
-            "name": "E-Sign.4.7.4.@canpng",
-            "bundleID": "p3.xyz.yyyue.esign",
-            "bundleIdentifier": "p3.xyz.yyyue.esign",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502222239",
-            "size": 8796490,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/E-Sign.4.7.4.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/E-Sign.4.7.4.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/p3.xyz.yyyue.esign.png",
-            "iconURL": "https://applefavour.com/icons/p3.xyz.yyyue.esign.png"
         },
         {
             "name": "AI.Logo.Generator.Hacked.1.8.@canpng",
@@ -818,21 +788,6 @@
             "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
         },
         {
-            "name": "Tanks.a.Lot.Hacked.5.000.@canpng",
-            "bundleID": "com.boombitgames.TanksALot",
-            "bundleIdentifier": "com.boombitgames.TanksALot",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502213157",
-            "size": 157693039,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Tanks.a.Lot.Hacked.5.000.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Tanks.a.Lot.Hacked.5.000.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.boombitgames.TanksALot.png",
-            "iconURL": "https://applefavour.com/icons/com.boombitgames.TanksALot.png"
-        },
-        {
             "name": "Tanks.a.Lot.Hacked.5.100.@canpng",
             "bundleID": "com.boombitgames.TanksALot",
             "bundleIdentifier": "com.boombitgames.TanksALot",
@@ -1028,21 +983,6 @@
             "iconURL": "https://applefavour.com/icons/com.touch2goal.soccer.png"
         },
         {
-            "name": "Instagram.Hacked.278.0.@canpng",
-            "bundleID": "com.burbn.instagram",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502213119",
-            "size": 106856084,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.278.0.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.278.0.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
-            "iconURL": "https://applefavour.com/icons/com.burbn.instagram.png"
-        },
-        {
             "name": "Minecraft.1.19.62.@canpng",
             "bundleID": "com.mojang.minecraftpe",
             "bundleIdentifier": "com.mojang.minecraftpe",
@@ -1056,21 +996,6 @@
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/com.mojang.minecraftpe.png",
             "iconURL": "https://applefavour.com/icons/com.mojang.minecraftpe.png"
-        },
-        {
-            "name": "Instagram.Hacked.274.0.@canpng",
-            "bundleID": "com.burbn.instagram",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502213118",
-            "size": 121455410,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.274.0.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram.Hacked.274.0.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
-            "iconURL": "https://applefavour.com/icons/com.burbn.instagram.png"
         },
         {
             "name": "InShot.Hacked.1.67.0.@canpng",
@@ -1298,30 +1223,15 @@
             "iconURL": "https://applefavour.com/icons/com.playgendary.bowmasters.png"
         },
         {
-            "name": "AdBlock.1.2.@canpng",
+            "name": "AdBlock_1.2_canpng",
             "bundleID": "com.7color.AdBlock",
             "bundleIdentifier": "com.7color.AdBlock",
             "version": "Unknown",
             "versionDate": "2023-05-02",
             "fullDate": "20230502213047",
             "size": 24174666,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.2.%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.2.%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://applefavour.com/icons/com.7color.AdBlock.png",
-            "iconURL": "https://applefavour.com/icons/com.7color.AdBlock.png"
-        },
-        {
-            "name": "AdBlock.1",
-            "bundleID": "com.7color.AdBlock",
-            "bundleIdentifier": "com.7color.AdBlock",
-            "version": "Unknown",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502213047",
-            "size": 24174666,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock.1.ipa",
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock_1.2_canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/AdBlock_1.2_canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/com.7color.AdBlock.png",
