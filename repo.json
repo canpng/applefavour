@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Mackolik",
+            "bundleID": "com.domainname.mackolik",
+            "bundleIdentifier": "com.domainname.mackolik",
+            "version": "4.6.8",
+            "versionDate": "2023-05-04",
+            "fullDate": "20230504173833",
+            "size": 49961586,
+            "down": "https://github.com/canpng/applefavour/releases/download/4/5/23/Mackolik_4.6.8_Mackolik-Pro_2.0.5_%40Turann.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/4/5/23/Mackolik_4.6.8_Mackolik-Pro_2.0.5_%40Turann.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mackolik-Pro 2.0.5",
+            "icon": "https://applefavour.com/icons/com.domainname.mackolik.png",
+            "iconURL": "https://applefavour.com/icons/com.domainname.mackolik.png"
+        },
+        {
             "name": "TikTok",
             "bundleID": "com.zhiliaoapp.musically",
             "bundleIdentifier": "com.zhiliaoapp.musically",
