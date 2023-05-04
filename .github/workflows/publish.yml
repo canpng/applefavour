@@ -1,20 +1,18 @@
-name: Publish
+on: # Only trigger when new release/edited/added/created/ pushed or files were edited.
+  push:
+    branches: ["main"]
+  release:
+    types:
+      - created
+      - published
+      - edited
+      - deleted
+      - released
 
 permissions:
   contents: write
   pages: write
   id-token: write
-
-on:
-  release: # Only trigger when new release pushed or files were edited.
-    types: 
-      - released
-      - published
-      - deleted
-      - edited
-      - created
-  push:
-    branches: [main]
 
 jobs:
   update:
