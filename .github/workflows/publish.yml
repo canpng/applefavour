@@ -6,10 +6,11 @@ permissions:
   id-token: write
 
 on:
-  push: # Only trigger when new release pushed or files were edited.
-    branches:
-      - 'main'
-      - 'releases/**'
+  release: # Only trigger when new release pushed or files were edited.
+    types: [created, edited]
+  push:
+    branches: [main]
+
 jobs:
   update:
     runs-on: ubuntu-20.04
@@ -20,13 +21,16 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.8 #install the python needed
-      - name: install python packages
+      - name: Install PiP Packages
         run:  pip install PyGithub pandas #Install Packages
-      - run: python3 generate_json.py #Run the script
+      - name: Run Script
+        run: python3 generate_json.py #Run the script
+      - run: rm -fv *.date # Delete previously created Updated.date
       - run: sudo rm -rfv *.ipa #Can be added to .gitignore also
+      - run: touch Updated:$(date +"%d-%m_%H:%M").date # Create Updated.date
       - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
       - run: git pull # Pull added because this repo won't be updated by its files by user 
-      - run: git add . # Add entire space 
-      - run: git commit -a -m "Apps updated. <Auto Action>" # Add Message
+      - run: git add . # Add entire workspace 
+      - run: git commit -a -m "Apps updated. <Auto Action>" # Adds Message
       - run: git push # Let's upload
