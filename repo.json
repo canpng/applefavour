@@ -23,15 +23,15 @@
             "iconURL": "https://applefavour.com/icons/gen.tech.impulse.png"
         },
         {
-            "name": "Instagram_281.0_Rocket_3.8.8.canpng",
+            "name": "Instagram_281.0_Rocket_3.8.8_canpng",
             "bundleID": "com.burbn.instagram",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "Unknown",
             "versionDate": "2023-05-04",
             "fullDate": "20230504115502",
             "size": 108586485,
-            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8.canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8.canpng.ipa",
+            "down": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8_canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/iPA/Instagram_281.0_Rocket_3.8.8_canpng.ipa",
             "developerName": "",
             "localizedDescription": null,
             "icon": "https://applefavour.com/icons/com.burbn.instagram.png",
