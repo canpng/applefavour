@@ -31,7 +31,6 @@ jobs:
          rm -fv *.date # Delete previously created Updated.date
          python3 generate_json.py #Run the script
          touch Updated:$(date +"%d-%m_%H:%M").date # Create Updated.date
-         rm -rfv *.ipa #Can be added to .gitignore also
       - name: Configure git and Upload
         run: |
          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
