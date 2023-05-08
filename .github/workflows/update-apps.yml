@@ -39,6 +39,6 @@ jobs:
          git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
          git fetch origin
          git checkout main
-         git add . # Add entire workspace 
-         git commit -am 'Apps updated. <Auto Action>' --verbose # Adds Message
-         git push --force origin main --verbose # Let's upload
+         git add .
+         git commit -am 'Apps updated. <Auto Action>'
+         git push origin main
