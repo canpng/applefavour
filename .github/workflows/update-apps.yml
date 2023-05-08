@@ -13,10 +13,7 @@ on:
       - deleted
       - released
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+permissions: write-all
 
 jobs:
   update-apps:
@@ -42,4 +39,4 @@ jobs:
          git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
          git add . # Add entire workspace 
          git commit --all --no-verify -m 'Apps updated. <Auto Action>' --verbose # Adds Message
-         git push origin main --force --progress --verbose # Let's upload
+         git push --force --progress --verbose # Let's upload
