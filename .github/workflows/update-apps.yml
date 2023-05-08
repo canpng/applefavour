@@ -3,6 +3,8 @@ name: Update-Apps
 on:
   push:
     branches: ["main"]
+    tags:
+      - '*'
   release:
     types:
       - created
