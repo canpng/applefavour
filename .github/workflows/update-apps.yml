@@ -40,4 +40,4 @@ jobs:
          git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
          git add . # Add entire workspace 
          git commit -asn -m "Apps updated. <Auto Action>" # Adds Message
-         git push --no-signed --all origin main --force --verbose # Let's upload
+         git push --no-signed origin main --force --verbose # Let's upload
