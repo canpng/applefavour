@@ -37,6 +37,8 @@ jobs:
         run: |
          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config --global user.name "github-actions[bot]" # Default actions user doesnt require Token etc.
+         git fetch origin
+         git checkout main
          git add . # Add entire workspace 
-         git commit --all --no-verify -m 'Apps updated. <Auto Action>' --verbose # Adds Message
+         git commit -am 'Apps updated. <Auto Action>' --verbose # Adds Message
          git push --force origin main --verbose # Let's upload
