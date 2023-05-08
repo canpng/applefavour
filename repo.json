@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "ArenaofValor",
+            "bundleID": "com.ngame.allstar.eu",
+            "bundleIdentifier": "com.ngame.allstar.eu",
+            "version": "1.50.1.2",
+            "versionDate": "2023-05-08",
+            "fullDate": "20230508080518",
+            "size": 170809353,
+            "down": "https://github.com/canpng/applefavour/releases/download/8/5/23/ArenaofValor_1.50.1.2_Modded_1.0_Rakipler-haritada-gorunur_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/8/5/23/ArenaofValor_1.50.1.2_Modded_1.0_Rakipler-haritada-gorunur_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Modded 1.0 Rakipler-haritada-gorunur",
+            "icon": "https://applefavour.com/icons/com.ngame.allstar.eu.png",
+            "iconURL": "https://applefavour.com/icons/com.ngame.allstar.eu.png"
+        },
+        {
+            "name": "ToonBlast",
+            "bundleID": "net.peakgames.toonblast",
+            "bundleIdentifier": "net.peakgames.toonblast",
+            "version": "10214",
+            "versionDate": "2023-05-08",
+            "fullDate": "20230508080518",
+            "size": 142244524,
+            "down": "https://github.com/canpng/applefavour/releases/download/8/5/23/ToonBlast_10214_Mods_InfLivesMoves_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/8/5/23/ToonBlast_10214_Mods_InfLivesMoves_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods InfLivesMoves",
+            "icon": "https://applefavour.com/icons/net.peakgames.toonblast.png",
+            "iconURL": "https://applefavour.com/icons/net.peakgames.toonblast.png"
+        },
+        {
             "name": "Twitter",
             "bundleID": "com.atebits.Tweetie2",
             "bundleIdentifier": "com.atebits.Tweetie2",
