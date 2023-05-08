@@ -53,17 +53,17 @@
             "iconURL": "https://applefavour.com/icons/com.google.ios.youtubemusic.png"
         },
         {
-            "name": "Youtube_18.18.2_uYouPlus_3.0",
+            "name": "Youtube",
             "bundleID": "com.google.ios.youtube",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "Unknown",
+            "version": "18.18.2",
             "versionDate": "2023-05-08",
             "fullDate": "20230508055902",
             "size": 107126764,
-            "down": "https://github.com/canpng/applefavour/releases/download/8/5/23/Youtube_18.18.2_uYouPlus_3.0.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/8/5/23/Youtube_18.18.2_uYouPlus_3.0.ipa",
+            "down": "https://github.com/canpng/applefavour/releases/download/8/5/23/Youtube_18.18.2_uYouPlus_3.0_%40Turann.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/8/5/23/Youtube_18.18.2_uYouPlus_3.0_%40Turann.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with uYouPlus 3.0",
             "icon": "https://applefavour.com/icons/com.google.ios.youtube.png",
             "iconURL": "https://applefavour.com/icons/com.google.ios.youtube.png"
         },
