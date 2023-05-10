@@ -11,7 +11,7 @@ on:
       - published
       - edited
       - deleted
-      - released
+     # - released
 
 permissions: write-all
 
