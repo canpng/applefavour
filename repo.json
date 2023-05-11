@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "MemeMaker",
+            "bundleID": "com.digitalpalette.mememachine",
+            "bundleIdentifier": "com.digitalpalette.mememachine",
+            "version": "5.2.0",
+            "versionDate": "2023-05-11",
+            "fullDate": "20230511110832",
+            "size": 38316423,
+            "down": "https://github.com/canpng/applefavour/releases/download/11/5/MemeMaker_5.2.0_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/11/5/MemeMaker_5.2.0_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/com.digitalpalette.mememachine.png",
+            "iconURL": "https://applefavour.com/icons/com.digitalpalette.mememachine.png"
+        },
+        {
             "name": "OldMansJourney+",
             "bundleID": "es.brokenrul.oldmansjourney.plus",
             "bundleIdentifier": "es.brokenrul.oldmansjourney.plus",
