@@ -45,10 +45,10 @@
             "versionDate": "2023-05-10",
             "fullDate": "20230510070847",
             "size": 49154045,
-            "down": "https://github.com/canpng/applefavour/releases/download/10/5/Speedtest_5.0.0_.NoAds_%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/10/5/Speedtest_5.0.0_.NoAds_%40canpng.ipa",
+            "down": "https://github.com/canpng/applefavour/releases/download/10/5/Speedtest_5.0.0_NoAds_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/10/5/Speedtest_5.0.0_NoAds_%40canpng.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with .NoAds",
+            "localizedDescription": "Injected with NoAds",
             "icon": "https://applefavour.com/icons/com.ookla.speedtest.png",
             "iconURL": "https://applefavour.com/icons/com.ookla.speedtest.png"
         },
