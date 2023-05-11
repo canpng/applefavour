@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "OldMansJourney+",
+            "bundleID": "es.brokenrul.oldmansjourney.plus",
+            "bundleIdentifier": "es.brokenrul.oldmansjourney.plus",
+            "version": "1.18",
+            "versionDate": "2023-05-11",
+            "fullDate": "20230511110651",
+            "size": 369058939,
+            "down": "https://github.com/canpng/applefavour/releases/download/Arcade/OldMansJourney%2B_1.18_AppleArcade_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/Arcade/OldMansJourney%2B_1.18_AppleArcade_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with AppleArcade",
+            "icon": "https://applefavour.com/icons/es.brokenrul.oldmansjourney.plus.png",
+            "iconURL": "https://applefavour.com/icons/es.brokenrul.oldmansjourney.plus.png"
+        },
+        {
+            "name": "BridgeConstructor+",
+            "bundleID": "com.headupgames.bridgeconstructor-arcade",
+            "bundleIdentifier": "com.headupgames.bridgeconstructor-arcade",
+            "version": "12.0",
+            "versionDate": "2023-05-11",
+            "fullDate": "20230511110629",
+            "size": 86227129,
+            "down": "https://github.com/canpng/applefavour/releases/download/Arcade/BridgeConstructor%2B_12.0_AppleArcade_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/Arcade/BridgeConstructor%2B_12.0_AppleArcade_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with AppleArcade",
+            "icon": "https://applefavour.com/icons/com.headupgames.bridgeconstructor-arcade.png",
+            "iconURL": "https://applefavour.com/icons/com.headupgames.bridgeconstructor-arcade.png"
+        },
+        {
             "name": "LogoMaker",
             "bundleID": "com.ISTLabs.LogoMaker",
             "bundleIdentifier": "com.ISTLabs.LogoMaker",
