@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Truckers-of-Europe-3",
+            "bundleID": "com.WandaSoftware.TruckersofEurope3",
+            "bundleIdentifier": "com.WandaSoftware.TruckersofEurope3",
+            "version": "0.38.2",
+            "versionDate": "2023-05-14",
+            "fullDate": "20230514090740",
+            "size": 492169899,
+            "down": "https://github.com/canpng/applefavour/releases/download/14/5/Truckers-of-Europe-3_0.38.2_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/14/5/Truckers-of-Europe-3_0.38.2_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/com.WandaSoftware.TruckersofEurope3.png",
+            "iconURL": "https://applefavour.com/icons/com.WandaSoftware.TruckersofEurope3.png"
+        },
+        {
+            "name": "YouTube-Music",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.01.2",
+            "versionDate": "2023-05-14",
+            "fullDate": "20230514090740",
+            "size": 57681399,
+            "down": "https://github.com/canpng/applefavour/releases/download/14/5/YouTube-Music_6.01.2_YTMusicUltimate_1.3.7_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/14/5/YouTube-Music_6.01.2_YTMusicUltimate_1.3.7_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.3.7",
+            "icon": "https://applefavour.com/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://applefavour.com/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "unc0ver",
             "bundleID": "science.xnu.undecimus",
             "bundleIdentifier": "science.xnu.undecimus",
