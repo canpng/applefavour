@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "PicsArt",
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "22.3.2",
+            "versionDate": "2023-05-16",
+            "fullDate": "20230516054051",
+            "size": 78246228,
+            "down": "https://github.com/canpng/applefavour/releases/download/16/5/PicsArt_22.3.2_Gold_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/16/5/PicsArt_22.3.2_Gold_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://applefavour.com/icons/com.picsart.studio.png",
+            "iconURL": "https://applefavour.com/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "Terabox",
+            "bundleID": "com.dubox.drive",
+            "bundleIdentifier": "com.dubox.drive",
+            "version": "3.12.0",
+            "versionDate": "2023-05-16",
+            "fullDate": "20230516054051",
+            "size": 88865499,
+            "down": "https://github.com/canpng/applefavour/releases/download/16/5/Terabox_3.12.0_Premium_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/16/5/Terabox_3.12.0_Premium_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://applefavour.com/icons/com.dubox.drive.png",
+            "iconURL": "https://applefavour.com/icons/com.dubox.drive.png"
+        },
+        {
             "name": "Truckers-of-Europe-3",
             "bundleID": "com.WandaSoftware.TruckersofEurope3",
             "bundleIdentifier": "com.WandaSoftware.TruckersofEurope3",
