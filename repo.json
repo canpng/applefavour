@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "SMPRO",
+            "bundleID": "com.plusblog.smpro",
+            "bundleIdentifier": "com.plusblog.smpro",
+            "version": "4.8",
+            "versionDate": "2023-05-16",
+            "fullDate": "20230516082641",
+            "size": 219752683,
+            "down": "https://github.com/canpng/applefavour/releases/download/16/5/SMPRO_4.8_Satella_1.8.1_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/16/5/SMPRO_4.8_Satella_1.8.1_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella 1.8.1",
+            "icon": "https://applefavour.com/icons/com.plusblog.smpro.png",
+            "iconURL": "https://applefavour.com/icons/com.plusblog.smpro.png"
+        },
+        {
+            "name": "LIMBO+",
+            "bundleID": "com.playdeadgames.limbo.arcade",
+            "bundleIdentifier": "com.playdeadgames.limbo.arcade",
+            "version": "1.0.1",
+            "versionDate": "2023-05-16",
+            "fullDate": "20230516082533",
+            "size": 128885602,
+            "down": "https://github.com/canpng/applefavour/releases/download/Arcade/LIMBO%2B_1.0.1_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/Arcade/LIMBO%2B_1.0.1_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://applefavour.com/icons/com.playdeadgames.limbo.arcade.png",
+            "iconURL": "https://applefavour.com/icons/com.playdeadgames.limbo.arcade.png"
+        },
+        {
             "name": "PicsArt",
             "bundleID": "com.picsart.studio",
             "bundleIdentifier": "com.picsart.studio",
