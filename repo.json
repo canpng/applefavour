@@ -1,0 +1,12 @@
+{
+    "name": "AppleFavour IPA Repo",
+    "identifier": "xyz.applefavour.repo",
+    "sourceURL": "https://applefavour.com/repo.json",
+    "META": {
+        "repoName": "AppleFavour IPA Repo",
+        "repoIcon": "https://applefavour.com/images/favour.png"
+    },
+    "apps": [
+        
+    ]
+}
