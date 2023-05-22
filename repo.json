@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "ShadowFight3",
+            "bundleID": "com.nekki.shadowfight3",
+            "bundleIdentifier": "com.nekki.shadowfight3",
+            "version": "1.33.0",
+            "versionDate": "2023-05-22",
+            "fullDate": "20230522084408",
+            "size": 140412242,
+            "down": "https://github.com/canpng/applefavour/releases/download/22/05/ShadowFight3_1.33.0_Modded_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/22/05/ShadowFight3_1.33.0_Modded_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Modded",
+            "icon": "https://applefavour.com/icons/com.nekki.shadowfight3.png",
+            "iconURL": "https://applefavour.com/icons/com.nekki.shadowfight3.png"
+        },
+        {
+            "name": "Musixmatch",
+            "bundleID": "com.musixmatch.lyrics",
+            "bundleIdentifier": "com.musixmatch.lyrics",
+            "version": "7.10.40",
+            "versionDate": "2023-05-22",
+            "fullDate": "20230522084403",
+            "size": 59261657,
+            "down": "https://github.com/canpng/applefavour/releases/download/22/05/Musixmatch_7.10.40_NoAds_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/22/05/Musixmatch_7.10.40_NoAds_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NoAds",
+            "icon": "https://applefavour.com/icons/com.musixmatch.lyrics.png",
+            "iconURL": "https://applefavour.com/icons/com.musixmatch.lyrics.png"
+        },
+        {
             "name": "Twitch",
             "bundleID": "tv.twitch",
             "bundleIdentifier": "tv.twitch",
