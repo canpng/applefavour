@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "ChessUniverse+",
+            "bundleID": "com.kingsofgames.chessuniverseplus",
+            "bundleIdentifier": "com.kingsofgames.chessuniverseplus",
+            "version": "1.17.2",
+            "versionDate": "2023-05-23",
+            "fullDate": "20230523211753",
+            "size": 74829796,
+            "down": "https://github.com/canpng/applefavour/releases/download/24/05/ChessUniverse%2B_1.17.2_IGG_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/24/05/ChessUniverse%2B_1.17.2_IGG_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://applefavour.com/icons/com.kingsofgames.chessuniverseplus.png",
+            "iconURL": "https://applefavour.com/icons/com.kingsofgames.chessuniverseplus.png"
+        },
+        {
+            "name": "SmashHit",
+            "bundleID": "com.mediocre.smashhit",
+            "bundleIdentifier": "com.mediocre.smashhit",
+            "version": "1.4.2",
+            "versionDate": "2023-05-23",
+            "fullDate": "20230523211700",
+            "size": 65416935,
+            "down": "https://github.com/canpng/applefavour/releases/download/24/05/SmashHit_1.4.2_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/24/05/SmashHit_1.4.2_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/com.mediocre.smashhit.png",
+            "iconURL": "https://applefavour.com/icons/com.mediocre.smashhit.png"
+        },
+        {
             "name": "ShadowFight3",
             "bundleID": "com.nekki.shadowfight3",
             "bundleIdentifier": "com.nekki.shadowfight3",
