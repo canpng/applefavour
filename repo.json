@@ -233,21 +233,6 @@
             "iconURL": "https://applefavour.com/icons/app.nicegram.png"
         },
         {
-            "name": "Spotify",
-            "bundleID": "com.spotify.client",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.36",
-            "versionDate": "2023-05-19",
-            "fullDate": "20230519110758",
-            "size": 55435376,
-            "down": "https://github.com/canpng/applefavour/releases/download/19/05/Spotify_8.8.36_Spotilife_1.8a_%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/19/05/Spotify_8.8.36_Spotilife_1.8a_%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Spotilife 1.8a",
-            "icon": "https://applefavour.com/icons/com.spotify.client.png",
-            "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
-        },
-        {
             "name": "MyTalkingTom+",
             "bundleID": "com.outfit7.mytalkingtom.arcade",
             "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
@@ -1446,21 +1431,6 @@
             "localizedDescription": "Injected with Hacked",
             "icon": "https://applefavour.com/icons/com.dubox.drive.png",
             "iconURL": "https://applefavour.com/icons/com.dubox.drive.png"
-        },
-        {
-            "name": "Spotify",
-            "bundleID": "com.spotify.client",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.8.22",
-            "versionDate": "2023-05-02",
-            "fullDate": "20230502213157",
-            "size": 59097315,
-            "down": "https://github.com/canpng/applefavour/releases/download/1/5/Spotify_8.8.22_Spotlife_1.8_%40canpng.ipa",
-            "downloadURL": "https://github.com/canpng/applefavour/releases/download/1/5/Spotify_8.8.22_Spotlife_1.8_%40canpng.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Spotlife 1.8",
-            "icon": "https://applefavour.com/icons/com.spotify.client.png",
-            "iconURL": "https://applefavour.com/icons/com.spotify.client.png"
         },
         {
             "name": "Tanks-A-lot",
