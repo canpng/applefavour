@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "PSExpress",
+            "bundleID": "com.adobe.PSMobile",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.21.0",
+            "versionDate": "2023-06-02",
+            "fullDate": "20230602060937",
+            "size": 107358504,
+            "down": "https://github.com/canpng/applefavour/releases/download/2/6/PSExpress_23.21.0_Premium_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/2/6/PSExpress_23.21.0_Premium_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://applefavour.com/icons/com.adobe.PSMobile.png",
+            "iconURL": "https://applefavour.com/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "MadSkillsMotocross2",
+            "bundleID": "com.turborilla.MadSkillsMotocross2",
+            "bundleIdentifier": "com.turborilla.MadSkillsMotocross2",
+            "version": "2.35.4544",
+            "versionDate": "2023-06-02",
+            "fullDate": "20230602060845",
+            "size": 83359045,
+            "down": "https://github.com/canpng/applefavour/releases/download/2/6/MadSkillsMotocross2_2.35.4544_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/2/6/MadSkillsMotocross2_2.35.4544_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/com.turborilla.MadSkillsMotocross2.png",
+            "iconURL": "https://applefavour.com/icons/com.turborilla.MadSkillsMotocross2.png"
+        },
+        {
             "name": "Repost+",
             "bundleID": "com.livintis.repostplusapp",
             "bundleIdentifier": "com.livintis.repostplusapp",
