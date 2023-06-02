@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Repost+",
+            "bundleID": "com.livintis.repostplusapp",
+            "bundleIdentifier": "com.livintis.repostplusapp",
+            "version": "15.08",
+            "versionDate": "2023-06-02",
+            "fullDate": "20230602051245",
+            "size": 18372328,
+            "down": "https://github.com/canpng/applefavour/releases/download/2/6/Repost%2B_15.08_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/2/6/Repost%2B_15.08_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/com.livintis.repostplusapp.png",
+            "iconURL": "https://applefavour.com/icons/com.livintis.repostplusapp.png"
+        },
+        {
+            "name": "TowerWar",
+            "bundleID": "games.vaveda.militaryoverturn",
+            "bundleIdentifier": "games.vaveda.militaryoverturn",
+            "version": "1.17.3",
+            "versionDate": "2023-06-02",
+            "fullDate": "20230602051245",
+            "size": 93381888,
+            "down": "https://github.com/canpng/applefavour/releases/download/2/6/TowerWar_1.17.3_Satella_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/2/6/TowerWar_1.17.3_Satella_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://applefavour.com/icons/games.vaveda.militaryoverturn.png",
+            "iconURL": "https://applefavour.com/icons/games.vaveda.militaryoverturn.png"
+        },
+        {
             "name": "TrafficRider",
             "bundleID": "com.skgames.motor",
             "bundleIdentifier": "com.skgames.motor",
