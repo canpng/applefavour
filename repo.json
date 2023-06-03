@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Twitch",
+            "bundleID": "tv.twitch",
+            "bundleIdentifier": "tv.twitch",
+            "version": "15.3",
+            "versionDate": "2023-06-03",
+            "fullDate": "20230603070052",
+            "size": 54552610,
+            "down": "https://github.com/canpng/applefavour/releases/download/3/6/Twitch_15.3_NoAds_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/3/6/Twitch_15.3_NoAds_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NoAds",
+            "icon": "https://applefavour.com/icons/tv.twitch.png",
+            "iconURL": "https://applefavour.com/icons/tv.twitch.png"
+        },
+        {
+            "name": "Twitter",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.60",
+            "versionDate": "2023-06-03",
+            "fullDate": "20230603070052",
+            "size": 96370087,
+            "down": "https://github.com/canpng/applefavour/releases/download/3/6/Twitter_9.60_BHTwitter_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/3/6/Twitter_9.60_BHTwitter_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter",
+            "icon": "https://applefavour.com/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://applefavour.com/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "PSExpress",
             "bundleID": "com.adobe.PSMobile",
             "bundleIdentifier": "com.adobe.PSMobile",
