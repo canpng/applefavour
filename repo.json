@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Mackolik",
+            "bundleID": "com.domainname.mackolik",
+            "bundleIdentifier": "com.domainname.mackolik",
+            "version": "4.6.9",
+            "versionDate": "2023-06-04",
+            "fullDate": "20230604083618",
+            "size": 49469723,
+            "down": "https://github.com/canpng/applefavour/releases/download/4/6/Mackolik_4.6.9_Pro_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/4/6/Mackolik_4.6.9_Pro_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://applefavour.com/icons/com.domainname.mackolik.png",
+            "iconURL": "https://applefavour.com/icons/com.domainname.mackolik.png"
+        },
+        {
+            "name": "MyFitnessPal",
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "23.10.5",
+            "versionDate": "2023-06-04",
+            "fullDate": "20230604083618",
+            "size": 37997772,
+            "down": "https://github.com/canpng/applefavour/releases/download/4/6/MyFitnessPal_23.10.5_Premium_%40canpng.ipa",
+            "downloadURL": "https://github.com/canpng/applefavour/releases/download/4/6/MyFitnessPal_23.10.5_Premium_%40canpng.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://applefavour.com/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://applefavour.com/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "Twitch",
             "bundleID": "tv.twitch",
             "bundleIdentifier": "tv.twitch",
